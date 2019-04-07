@@ -1,0 +1,14 @@
+{
+  "name": "trailo",
+  "version": "1.0.0",
+  "description": "hotel and flight booking",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "gourav mondal",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
